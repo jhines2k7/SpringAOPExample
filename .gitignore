@@ -1,4 +1,9 @@
-
+.classpath
+.idea
+.settings
+.springBeans
+target
+.project
 # Created by https://www.gitignore.io/api/intellij,intellij+iml,java
 
 ### Intellij ###
